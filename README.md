@@ -17,7 +17,7 @@ This project demonstrates the use of **HTML, CSS, JavaScript and Bootstrap** to 
 📂 Project Setup
 1. Clone this repository:
    ```bash
-   git clone (https://atul-codee.github.io/bootslander-assignment/)
+   git clone (https://atul-dev-ai.github.io/bootslander-assignment/)
 <img width="1906" height="953" alt="Screenshot 2025-09-12 135611" src="https://github.com/user-attachments/assets/b09c00f7-38c1-484b-8d39-3e5c386ddcc3" />
 
 
